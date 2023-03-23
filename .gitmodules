@@ -3,6 +3,11 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "actuaRE"]
+	path = actuaRE
+	url = https://github.com/cran/actuaRE
+	shallow = true
+	registered = true
 [submodule "CalibrationCurves"]
 	path = CalibrationCurves
 	url = https://github.com/bavodc/calibrationcurves
