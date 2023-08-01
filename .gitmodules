@@ -2,9 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "actuaRE"]
-	path = actuaRE
-	url = https://github.com/cran/actuaRE
 [submodule "CalibrationCurves"]
 	path = CalibrationCurves
 	url = https://github.com/bavodc/calibrationcurves
+[submodule "actuaRE"]
+	path = actuaRE
+	url = https://github.com/cran/actuaRE
