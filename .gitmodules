@@ -4,7 +4,7 @@
 	branch = HEAD
 [submodule "CalibrationCurves"]
 	path = CalibrationCurves
-	url = https://github.com/bavodc/calibrationcurves
+	url = https://github.com/bavodc/websitecalibrationcurves
 [submodule "actuaRE"]
 	path = actuaRE
 	url = https://github.com/cran/actuaRE
